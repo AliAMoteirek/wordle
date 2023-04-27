@@ -17,7 +17,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Happy Birthday Älsking</h1>
+      <h1>Happy Birthday Älsking 🥳🎂🍰🎈🎉🎁</h1>
       {solution && <Wordle solution={solution} />}
     </div>
   );
